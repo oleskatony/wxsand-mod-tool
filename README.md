@@ -1,12 +1,12 @@
-# wxSand Mods Tool
+# wxSand Mod Tool
 
 ![screenshot](gui.png)
 
-Wxsand is Owen Piette, or "Opiette"'s C++ variant of the original Falling Sand Game. First made in early 2006, it was later expanded by purple100 to have a 255 element limit, and a new code line for mods, the "explode" line. The game is currently abandonware, but there there have been other attempts to revive and archive the game.
+Wxsand is Owen Piette, or "Opiette"'s C++ variant of the original Falling Sand Game. First made in early 2006, it was later expanded by purple100 to have a 255 element limit for additional mod support. The game is currently abandonware, but there there have been other attempts to revive and archive the game.
 
 ctrlcctrlv was able to successfully compile the game to Linux, and has a repository with most of the mods. You can find that project [here](https://github.com/ctrlcctrlv/wxsand/tree/master?tab=readme-ov-file#wxsand---owen-piettes-falling-sand-game).
 
-This wxSand Mod Tool is a Python script with a graphical user interface (GUI) designed to simplify the process of downloading mods and accessing archived wiki pages for wxSand, Owen Piette's Falling Sand Game. The format and order the mods appear on the list is almost indentical to the way they would have orginally appeared within 'Load Physics from Online Wiki' option within wxSand before the FSG Wiki servers shut down.
+This wxSand Mod Tool is a Python application with a graphical user interface (GUI) designed to simplify the process of downloading mods and accessing archived wiki pages for wxSand, Owen Piette's Falling Sand Game. The format and order the mods appear on the list is almost indentical to the way they would have orginally appeared within 'Load Physics from Online Wiki' option within wxSand before the FSG Wiki servers shut down.
 
 Please note that not all mods are tested, and some mods are only compatible with specific versions of the game.
 
